@@ -1,4 +1,5 @@
-![image](https://github.com/OsvaldoVzqz/OsvaldoVzqz/assets/142616952/389104a9-e091-4ff4-8b8b-fbc6ae886895)
+![image](https://github.com/OsvaldoVzqz/OsvaldoVzqz/assets/142616952/5d163fce-5527-443b-af23-0a4990ef9220)
+
 
 "There are historical periods that have revolutionized the world, from the discovery of fire to the industrial revolution. Currently, we are fortunate to be living in the digital transition that will forever change the world as we know it and unlock new possibilities for humanity. This same realization propelled me to make a radical shift in my life and hop on the evolution train, studying Full-Stack web development and working day by day to build a solid foundation in software engineering.
 
